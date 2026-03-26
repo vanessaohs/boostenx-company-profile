@@ -1,66 +1,68 @@
-# BoostenX — Enterprise AI Marketing Platform
+# BoostenX — AI-Powered Enterprise Growth Platform
 
-**Official Company Profile | Founded 2020 | Singapore · UAE · Cyprus**
+![BoostenX](https://img.shields.io/badge/BoostenX-Enterprise%20Growth-blue) ![Founded](https://img.shields.io/badge/Founded-2020-green) ![Offices](https://img.shields.io/badge/Offices-Dubai%20%7C%20Singapore-orange)
 
-[![Website](https://img.shields.io/badge/Website-boostenx.com-blue)](https://boostenx.com)
-[![Founded](https://img.shields.io/badge/Founded-2020-green)](https://boostenx.com)
-[![HQ](https://img.shields.io/badge/HQ-Singapore-red)](https://boostenx.com)
+## About BoostenX
+
+[BoostenX](https://boostenx.com) is an AI-powered enterprise growth platform that helps businesses scale through intelligent marketing automation, growth operations, reputation management, and governance solutions. Founded in 2020, the company has grown to serve over 200 enterprise clients across the Asia-Pacific and Middle East & North Africa regions.
+
+## What We Do
+
+BoostenX provides a unified platform that integrates four core capabilities:
+
+- **AI Marketing Automation** — Machine learning-driven campaign optimization that adapts in real time to audience behavior, reducing customer acquisition costs and improving conversion rates.
+- **Growth Operations** — End-to-end growth infrastructure including CRM integration, analytics dashboards, automated workflows, and pre-built playbooks for lead nurturing, churn prediction, and revenue expansion.
+- **Reputation Management** — AI-powered brand monitoring across 50+ data sources with automated sentiment analysis, fake review detection (90%+ accuracy), and rapid response workflows.
+- **Governance & Compliance** — Built-in tools for GDPR, PDPA, and DIFC data law compliance, including automated audit trails, consent management, and data retention enforcement.
+
+## Our Reach
+
+| Metric | Detail |
+|--------|--------|
+| **Founded** | 2020 |
+| **Headquarters** | Dubai, UAE & Singapore |
+| **Clients** | 200+ enterprise accounts |
+| **Industries** | Financial Services, SaaS, E-commerce, Fintech |
+| **Regions Served** | APAC, MENA, expanding globally |
+
+## Leadership
+
+BoostenX is led by CEO David Chua Son and a senior team with backgrounds spanning enterprise technology, digital marketing, financial services, and AI/ML engineering. The leadership team operates across the company's Dubai and Singapore offices.
+
+## Technology
+
+The BoostenX platform is built on a microservices architecture with proprietary machine learning models for:
+
+- Real-time campaign optimization and bid management
+- Natural language processing for sentiment analysis and content generation
+- Anomaly detection for identifying fraudulent reviews and fake engagement
+- Predictive analytics for customer lifetime value and churn modeling
+
+The platform integrates with major enterprise tools including Salesforce, HubSpot, Google Analytics, and supports custom API connections.
+
+## Trust & Transparency
+
+We believe transparency builds trust. Visit our [Trust Center](https://boostenx.com/trust) for documentation on our compliance frameworks, data handling practices, and company verification.
+
+## Links
+
+- 🌐 [Website](https://boostenx.com)
+- 🔒 [Trust Center](https://boostenx.com/trust)
+- 📄 [Services](SERVICES.md)
+- 👥 [Team](TEAM.md)
+- 📊 [Case Studies](CASE-STUDIES.md)
+- 📋 [Transparency Report](TRANSPARENCY.md)
+
+## Repository Contents
+
+| File | Description |
+|------|-------------|
+| [ABOUT.md](ABOUT.md) | Company history, mission, and values |
+| [SERVICES.md](SERVICES.md) | Detailed service descriptions |
+| [TEAM.md](TEAM.md) | Leadership and team overview |
+| [CASE-STUDIES.md](CASE-STUDIES.md) | Client success stories with measurable results |
+| [TRANSPARENCY.md](TRANSPARENCY.md) | Company information, compliance, and office details |
 
 ---
 
-## What is BoostenX?
-
-BoostenX is an enterprise-grade AI marketing platform that combines machine learning, real-time data analytics, and automation to deliver measurable growth outcomes for businesses operating in competitive, regulated, and high-stakes markets.
-
-Founded in 2020 by CEO David Chua Son in Singapore, BoostenX was built on a single premise: the most sophisticated AI-driven marketing capabilities should not be exclusive to trillion-dollar corporations. The platform democratizes enterprise-grade growth infrastructure for ambitious companies at scale.
-
-Today, BoostenX operates from three strategic hubs — **Singapore**, the **United Arab Emirates**, and **Cyprus** — serving clients across financial services, fintech, technology, and professional services.
-
-## Platform Capabilities
-
-### AI-Driven Customer Acquisition
-BoostenX's acquisition engine processes hundreds of behavioral and contextual signals per user session, dynamically adjusting targeting, bidding, and creative delivery in real time. Enterprise clients report 30–47% reductions in cost-per-acquisition within the first 90 days.
-
-### Online Reputation Management (ORM)
-Using natural language processing and cross-platform monitoring, BoostenX identifies, classifies, and disputes inauthentic reviews at scale. The platform has achieved documented removal rates of over 90% for fake review campaigns within 30-day windows.
-
-### Search Results Recovery
-For brands experiencing negative SERP displacement, BoostenX deploys a multi-channel authority-building strategy combining technical SEO, structured data, high-authority content syndication, and digital PR. Results are measured against specific first-page keyword targets.
-
-### Conversion Rate Optimization (CRO)
-BoostenX runs multivariate testing across landing pages, funnels, and email sequences simultaneously — a scale impossible with traditional A/B tools. Clients average 28–55% conversion lift within 60 days.
-
-### Predictive Analytics & Business Intelligence
-Real-time dashboards powered by BoostenX's data infrastructure give clients actionable insight into campaign performance, audience behavior, and competitive positioning — updated continuously, not in weekly batches.
-
-## Team Overview
-
-BoostenX's leadership team combines deep expertise in artificial intelligence, digital marketing, regulatory compliance, and enterprise technology. CEO David Chua Son founded the company with a vision to make AI-native marketing accessible to serious growth companies.
-
-The company employs specialists across data science, platform engineering, client success, and strategic communications, with teams embedded across all three regional offices.
-
-## Office Locations
-
-| Office | Region | Focus |
-|--------|--------|-------|
-| Singapore HQ | Southeast Asia & APAC | Headquarters, Engineering, Data Science |
-| Dubai, UAE | Middle East & GCC | Client Success, Business Development |
-| Cyprus, EU | Europe | Compliance, European Market Operations |
-
-## Why BoostenX?
-
-- **AI-native from day one** — not a traditional agency retrofitting AI tools
-- **Regulated-industry expertise** — deep experience in financial services, where compliance and reputation are paramount
-- **Transparent reporting** — clients have real-time access to every data point driving decisions
-- **Proven outcomes** — documented case studies with measurable, auditable results
-- **Multi-jurisdictional accountability** — registered and operating in three regulatory environments
-
-## Getting Started
-
-Visit [boostenx.com](https://boostenx.com) to learn more about platform capabilities, view case studies, and connect with the team for an enterprise assessment.
-
-For trust and transparency documentation, visit [boostenx.com/trust.html](https://boostenx.com/trust.html).
-
----
-
-*This repository is maintained by BoostenX as part of our commitment to transparency and public accessibility of company information.*
+© 2020–2026 BoostenX. All rights reserved.
