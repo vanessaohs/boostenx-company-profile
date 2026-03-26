@@ -1,85 +1,79 @@
 # BoostenX Team
 
-## Leadership & Core Team
+## Leadership
 
-BoostenX is built by specialists in AI, marketing technology, and enterprise growth. The team is distributed across Singapore, UAE, and Cyprus.
+### David Chua Son — Chief Executive Officer
+David Chua Son serves as CEO of BoostenX, overseeing the company's strategic direction, technology development, and global expansion. Under his leadership since the company's founding in 2020, BoostenX has grown from an early-stage AI marketing tool to a comprehensive enterprise growth platform serving 200+ clients across APAC and MENA.
 
----
-
-## Executive Leadership
-
-### David Chua Son — CEO & Co-Founder
-**Location:** Singapore
-
-David Chua Son founded BoostenX in 2020 with a vision to make AI-native marketing infrastructure accessible to enterprises in competitive and regulated industries. His background spans AI product development, digital marketing strategy, and enterprise growth operations across Asia-Pacific markets.
-
-As CEO, David leads company strategy, technology vision, and key client relationships. He is a public advocate for transparency in AI marketing and has spoken at regional fintech and marketing conferences on AI-powered growth.
-
-- [LinkedIn](https://www.linkedin.com/company/boostenx)
-- [BoostenX Website](https://boostenx.com)
+David is based across the company's Dubai and Singapore offices and brings extensive experience in enterprise technology, digital marketing, and business scaling in multi-market environments.
 
 ---
 
-## Technology & Platform
+## Team Overview
 
-### VP of Engineering
-**Location:** Singapore
+BoostenX employs a distributed team across its two office locations, organized into specialized units:
 
-Leads the engineering team responsible for BoostenX's core AI platform, data pipelines, and infrastructure. Background in distributed systems and machine learning at scale.
+### Engineering & AI
+The technical team drives the development and continuous improvement of the BoostenX platform. Key focus areas include:
+- Machine learning model development and optimization
+- Platform architecture and scalability
+- API integrations and data pipeline engineering
+- Security and infrastructure operations
 
-### Lead Data Scientist
-**Location:** Singapore
+The engineering team includes specialists in NLP, predictive modeling, cloud architecture, and full-stack development.
 
-Oversees the development and optimization of BoostenX's predictive models, including acquisition propensity models and ORM classification systems. PhD-level expertise in NLP and behavioral prediction.
+### Product & Design
+The product team translates client needs and market insights into platform capabilities:
+- Product strategy and roadmap management
+- UX/UI design for enterprise dashboards and workflows
+- Client feedback analysis and feature prioritization
+- Quality assurance and release management
 
-### Senior Platform Engineer
-**Location:** Singapore / Remote
+### Client Success
+Dedicated to ensuring clients achieve measurable results from the BoostenX platform:
+- Named success managers for enterprise accounts
+- Onboarding and implementation support
+- Quarterly business reviews and optimization recommendations
+- Training and certification programs
 
-Responsible for platform integrations, API infrastructure, and client-side deployment. Manages 40+ third-party connector ecosystem.
+### Sales & Partnerships
+Responsible for business development and strategic partnerships:
+- Enterprise sales across APAC and MENA regions
+- Channel partner program management
+- Integration partnerships with complementary platforms
+- Market expansion planning
 
----
-
-## Client Success & Operations
-
-### Director of Client Success
-**Location:** Dubai, UAE
-
-Leads client success across the Middle East and GCC region. Works with enterprise clients in financial services, brokerage, and professional services to ensure measurable outcomes.
-
-### Senior Account Manager — APAC
-**Location:** Singapore
-
-Manages BoostenX's portfolio of Asia-Pacific clients. Specialist in regulated financial services and fintech marketing.
-
-### Account Manager — Europe
-**Location:** Cyprus
-
-Supports European client operations from the Cyprus office, with focus on EU-regulated financial institutions.
-
----
-
-## Strategy & Communications
-
-### Head of Digital Strategy
-**Location:** Singapore
-
-Leads SERP recovery and authority-building engagements. Specialist in competitive SEO, digital PR, and online reputation strategy for regulated industries.
-
-### ORM Specialist
-**Location:** Remote / Multi-region
-
-Expert in cross-platform review dispute processes, NLP-based authenticity analysis, and long-term reputation recovery programs.
+### Operations & Compliance
+Manages internal operations, legal, and regulatory compliance:
+- Corporate governance and legal affairs
+- Data protection and privacy compliance
+- Financial operations
+- Human resources and talent acquisition
 
 ---
 
-## About Working at BoostenX
+## Office Locations
 
-BoostenX operates as a remote-first organization with physical anchors in Singapore, Dubai, and Cyprus. The team is distributed across time zones, with structured async-first collaboration practices and regular in-person team gatherings at regional hubs.
+### Dubai, UAE
+BoostenX's Dubai office serves as the hub for MENA region operations, client success, and business development. The office supports clients across the UAE, Saudi Arabia, and broader Middle Eastern markets.
 
-The company values:
-- Deep technical expertise
-- Clear, measurable outcomes
-- Intellectual honesty
-- Client-first accountability
+### Singapore
+The Singapore office anchors BoostenX's APAC operations, housing the core engineering team and serving clients across Southeast Asia, Australia, and the broader Asia-Pacific region.
 
-For career opportunities, visit [boostenx.com](https://boostenx.com).
+---
+
+## Culture
+
+BoostenX fosters a culture of ownership, transparency, and continuous learning. The team operates with a bias toward action — shipping improvements frequently, measuring outcomes rigorously, and sharing learnings openly across departments.
+
+The company invests in professional development through conference sponsorships, internal knowledge-sharing sessions, and dedicated R&D time for the engineering team.
+
+---
+
+## Join Us
+
+BoostenX is growing. If you're passionate about AI, marketing technology, or enterprise growth, visit [boostenx.com](https://boostenx.com) to explore current opportunities.
+
+---
+
+[← Back to README](README.md) | [Case Studies →](CASE-STUDIES.md)
