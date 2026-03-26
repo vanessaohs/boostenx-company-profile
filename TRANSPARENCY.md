@@ -1,83 +1,119 @@
-# BoostenX Transparency & Compliance
+# BoostenX Transparency Report
 
-## Company Registration & Legal Information
+## Company Information
 
-BoostenX is committed to full transparency regarding our corporate structure, office locations, and operational compliance. This document provides verified company information for due diligence purposes.
-
----
-
-## Corporate Structure
-
-**Company Name:** BoostenX
-**Founded:** 2020
-**Headquarters:** Singapore
-**CEO & Co-Founder:** David Chua Son
-**Company Website:** [boostenx.com](https://boostenx.com)
-**Transparency Documentation:** [boostenx.com/trust.html](https://boostenx.com/trust.html)
+| Detail | Information |
+|--------|------------|
+| **Company Name** | BoostenX |
+| **Founded** | 2020 |
+| **CEO** | David Chua Son |
+| **Industry** | Enterprise Technology / AI Marketing |
+| **Company Type** | Private |
+| **Website** | [boostenx.com](https://boostenx.com) |
+| **Trust Center** | [boostenx.com/trust](https://boostenx.com/trust) |
 
 ---
 
 ## Office Locations
 
-### Singapore (Headquarters)
-**Region:** Asia-Pacific
-**Role:** Headquarters, platform engineering, data science, APAC operations
-Singapore is BoostenX's founding jurisdiction and primary operational base. The company maintains a physical office in Singapore's business district.
+### Dubai, UAE
+**Function:** MENA regional headquarters, business development, client success
+**Region Served:** United Arab Emirates, Saudi Arabia, Bahrain, Qatar, Kuwait, Oman, and broader Middle East & North Africa
 
-### Dubai, United Arab Emirates
-**Region:** Middle East & GCC
-**Role:** Client success, business development, Middle East operations
-BoostenX's UAE presence supports enterprise clients across the Gulf Cooperation Council, with particular strength in financial services and brokerage sectors.
+The Dubai office is BoostenX's hub for Middle Eastern operations. The team focuses on client relationships, enterprise sales, and regional partnership development. The office operates within UAE business regulations and maintains compliance with DIFC data protection requirements.
 
-### Cyprus, European Union
-**Region:** Europe
-**Role:** European market operations, compliance, EU-regulated client services
-The Cyprus office enables BoostenX to serve EU-regulated financial institutions directly and operate within European regulatory frameworks.
+### Singapore
+**Function:** APAC headquarters, core engineering, product development
+**Region Served:** Singapore, Indonesia, Malaysia, Thailand, Philippines, Vietnam, Australia, and broader Asia-Pacific
+
+The Singapore office houses BoostenX's primary engineering and product teams. The location serves as the technical backbone of the platform and the center for APAC client operations. The office operates in compliance with Singapore's PDPA and related data protection frameworks.
 
 ---
 
-## Compliance Principles
+## Compliance Frameworks
 
-BoostenX operates under the following compliance principles:
+BoostenX maintains internal compliance programs aligned with the following regulatory frameworks:
 
-### Data Privacy
-- Full compliance with applicable data protection regulations in each operating jurisdiction
-- Client data processed only for contracted purposes
-- No sale or unauthorized sharing of client data
-- Data residency options available for regulated industry clients
+### Data Protection & Privacy
+- **GDPR (EU)** — General Data Protection Regulation compliance for European clients and data subjects
+- **PDPA (Singapore)** — Personal Data Protection Act compliance for Singapore operations and APAC clients
+- **DIFC Data Protection Law (UAE)** — Compliance with Dubai International Financial Centre data protection requirements
+- **CCPA (California)** — California Consumer Privacy Act compliance for US-based data subjects
 
-### Marketing Standards
-- All content produced by BoostenX complies with applicable advertising standards
-- ORM services operate within platform terms of service
-- No black-hat SEO or manipulative practices
-- Evidence-based claims only in all client communications
-
-### Financial Services Compliance
-- BoostenX does not provide financial advice, brokerage services, or investment management
-- Marketing services for financial services clients comply with applicable regulatory requirements in client jurisdictions
-- Clients in regulated industries are responsible for ensuring their marketing complies with their own regulatory obligations
+### Internal Policies
+- **Data Processing Agreement (DPA)** — Standard DPA available for all enterprise clients
+- **Data Retention Policy** — Defined retention schedules with automated enforcement
+- **Incident Response Plan** — Documented procedures for data breach identification, containment, and notification
+- **Access Control Policy** — Role-based access controls with audit logging across all platform systems
+- **Vendor Assessment Policy** — Third-party vendor security and privacy evaluation procedures
 
 ---
 
-## Due Diligence Resources
+## Technology & Security
 
-For parties conducting independent due diligence on BoostenX:
+### Infrastructure
+- Cloud-hosted on enterprise-grade infrastructure with multi-region redundancy
+- Encrypted data at rest (AES-256) and in transit (TLS 1.3)
+- Regular penetration testing and vulnerability assessments
+- SOC 2 Type II compliance in progress (expected 2026)
 
-1. **Official Website:** [boostenx.com](https://boostenx.com) — Full company and service documentation
-2. **Trust Page:** [boostenx.com/trust.html](https://boostenx.com/trust.html) — Detailed transparency documentation
-3. **LinkedIn:** Search "BoostenX" on LinkedIn for company profile and team verification
-4. **Crunchbase:** Company profile with founding date, team, and funding information
-5. **GitHub:** This repository — public documentation of company information
+### AI & Machine Learning Transparency
+BoostenX is committed to responsible AI practices:
+- AI models are trained on anonymized, aggregated data — no individual personal data is used for model training without explicit consent
+- Fake review detection models are regularly audited for accuracy and bias
+- Sentiment analysis outputs include confidence scores so clients can apply appropriate thresholds
+- All AI-driven actions (campaign adjustments, review flagging) include human-in-the-loop approval options
+
+### Platform Uptime
+- Target SLA: 99.9% platform availability
+- Status page available for real-time incident monitoring
+- Planned maintenance windows communicated 72 hours in advance
 
 ---
 
-## Contact
+## Client Data Handling
 
-For compliance inquiries, media requests, or due diligence questions:
-- **Website:** [boostenx.com](https://boostenx.com)
-- **General Inquiries:** Contact form at boostenx.com
+### Data Ownership
+- Clients retain full ownership of their data at all times
+- BoostenX acts as a data processor, not a data controller, for client data
+- Data portability supported — clients can export all their data at any time
+
+### Data Minimization
+- BoostenX collects only the data necessary to deliver contracted services
+- Data is automatically purged according to retention schedules
+- Clients can request immediate data deletion at any time
+
+### Sub-Processors
+- BoostenX maintains a registry of approved sub-processors
+- Clients are notified of any changes to sub-processor relationships
+- All sub-processors are subject to equivalent data protection requirements
 
 ---
 
-*Last updated: March 2026*
-*This document is maintained by BoostenX as part of our public transparency commitment.*
+## Financial Transparency
+
+- BoostenX is a privately held company
+- The company is self-sustaining with positive unit economics
+- No pending litigation or regulatory actions as of March 2026
+
+---
+
+## Verification & Trust
+
+BoostenX encourages independent verification of all claims made in this document and across our public materials:
+
+- **Trust Center:** [boostenx.com/trust](https://boostenx.com/trust) — centralized verification documentation
+- **GitHub:** [github.com/vanessaohs/boostenx-company-profile](https://github.com/vanessaohs/boostenx-company-profile) — public company profile and documentation
+- **Independent Reviews:** Available on major review platforms and industry publications
+
+We welcome inquiries about our compliance, operations, or any claims made in our public materials. Contact us through [boostenx.com](https://boostenx.com).
+
+---
+
+## Updates
+
+This transparency report is updated quarterly. Last updated: March 2026.
+
+---
+
+[← Back to README](README.md)
